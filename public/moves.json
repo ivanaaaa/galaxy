@@ -1,0 +1,115 @@
+{
+  "singlesign": {
+    "color": "red",
+    "sign": "ARROW_DOWN"
+  },
+  "loopsign": {
+    "cycles": 1,
+    "children": [
+      {
+        "color": "red",
+        "sign": "ARROW_DOWN"
+      },
+      {
+        "color": "blue",
+        "sign": "ARROW_DOWN"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_DOWN"
+      },
+      {
+        "color": "blue",
+        "sign": "ARROW_RIGHT"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_RIGHT"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_RIGHT"
+      },
+      {
+        "color": "blue",
+        "sign": "ARROW_RIGHT"
+      },
+      {
+        "color": "green",
+        "sign": "ARROW_LEFT"
+      },
+      {
+        "color": "green",
+        "sign": "ARROW_LEFT"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_UP"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_UP"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_UP"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_UP"
+      },
+      {
+        "color": "blue",
+        "sign": "ARROW_RIGHT"
+      },
+      {
+        "color": "blue",
+        "sign": "ARROW_RIGHT"
+      },
+      {
+        "color": "blue",
+        "sign": "ARROW_RIGHT"
+      },
+      {
+        "color": "blue",
+        "sign": "ARROW_RIGHT"
+      },
+      {
+        "color": "green",
+        "sign": "ARROW_LEFT"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_DOWN"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_DOWN"
+      },
+      {
+        "color": "blue",
+        "sign": "ARROW_RIGHT"
+      },
+      {
+        "color": "blue",
+        "sign": "ARROW_RIGHT"
+      },
+      {
+        "color": "blue",
+        "sign": "ARROW_RIGHT"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_DOWN"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_DOWN"
+      },
+      {
+        "color": "red",
+        "sign": "ARROW_DOWN"
+      }
+    ]
+  }
+}
